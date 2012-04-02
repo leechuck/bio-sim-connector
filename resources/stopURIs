@@ -1,0 +1,62 @@
+http://bhi.washington.edu/OPB#OPB000034; Element
+http://sig.uw.edu/fma#Cell; 
+http://sig.uw.edu/fma#Middle; 
+http://sig.uw.edu/fma#Left; 
+http://sig.uw.edu/fma#Right; 
+http://sig.uw.edu/fma#Central; 
+http://sig.uw.edu/fma#Protein; 
+http://sig.uw.edu/fma#Point; 
+http://sig.uw.edu/fma#External; 
+http://sig.uw.edu/fma#Membrane; 
+http://sig.uw.edu/fma#Back; 
+http://sig.uw.edu/fma#Peripheral; 
+http://sig.uw.edu/fma#Body; 
+http://sig.uw.edu/fma#Compartment; 
+http://sig.uw.edu/fma#Distal; 
+http://sig.uw.edu/fma#Volume; 
+http://sig.uw.edu/fma#Surface; 
+http://purl.org/obo/owl/GO#GO_0005623; cell
+http://purl.org/obo/owl/GO#GO_0005488; binding
+http://purl.org/obo/owl/GO#GO_0007610; behavior
+http://purl.org/obo/owl/GO#GO_0003675; protein
+http://purl.org/obo/owl/GO#GO_0009058; biosynthetic process
+http://purl.org/obo/owl/GO#GO_0040007; growth
+http://purl.org/obo/owl/GO#GO_0023052; signaling
+http://purl.org/obo/owl/GO#GO_0005622; intracellular
+http://purl.org/obo/owl/GO#GO_0016020; membrane
+http://purl.org/obo/owl/GO#GO_0005576; extracellular region
+http://purl.org/obo/owl/GO#GO_0005488; binding
+http://purl.org/obo/owl/GO#GO_0006810; transport
+http://purl.org/obo/owl/GO#GO_0005515; protein binding
+http://purl.org/obo/owl/GO#GO_0006412; translation
+http://purl.org/obo/owl/GO#GO_0009056; catabolic process
+http://purl.org/obo/owl/GO#GO_0043234; protein complex
+http://purl.org/obo/owl/GO#GO_0016310; phosphorylation
+http://purl.org/obo/owl/GO#GO_0016887; ATPase activity
+http://purl.org/obo/owl/GO#GO_0005102; receptor binding
+http://purl.org/obo/owl/GO#GO_0007165; signal transduction
+http://purl.org/obo/owl/GO#GO_0009293; transduction
+http://purl.org/obo/owl/GO#GO_0016301; kinase activity
+http://purl.org/obo/owl/GO#GO_0005829; cytosol
+http://purl.org/obo/owl/GO#GO_0006350; transcription_DNA-dependent
+http://purl.org/obo/owl/GO#GO_0023033; signal transduction
+http://purl.org/obo/owl/GO#GO_0016265; death
+http://purl.org/obo/owl/GO#GO_0006754; ATP biosynthetic process
+http://purl.org/obo/owl/GO#GO_0019901; protein kinase binding
+http://purl.org/obo/owl/GO#GO_0003924; GTPase activity
+http://purl.org/obo/owl/CHEBI#CHEBI_15377; water
+http://purl.org/obo/owl/CHEBI#CHEBI_15422; ATP
+http://purl.org/obo/owl/CHEBI#CHEBI_16761; ADP
+http://purl.org/obo/owl/CHEBI#CHEBI_24433; group
+http://purl.org/obo/owl/CHEBI#CHEBI_24870; ion
+http://purl.org/obo/owl/CHEBI#CHEBI_25016; lead atom
+http://purl.org/obo/owl/CHEBI#CHEBI_27889; lead(0)
+http://purl.org/obo/owl/CHEBI#CHEBI_50906; role
+http://purl.org/obo/owl/CHEBI#CHEBI_36080; protein
+http://purl.org/obo/owl/CHEBI#CHEBI_33232; application
+http://purl.org/obo/owl/CHEBI#CHEBI_18367; phosphate(3-)
+http://purl.org/obo/owl/CHEBI#CHEBI_16027; AMP
+http://purl.org/obo/owl/CHEBI#CHEBI_15996; GTP
+http://purl.org/obo/owl/CHEBI#CHEBI_35222; inhibitor
+http://purl.org/obo/owl/CHEBI#CHEBI_17552; GDP
+http://purl.org/obo/owl/CHEBI#CHEBI_17345; GMP
